@@ -1,0 +1,323 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASUS TUF Gaming F15 - Для проектирования мебели и 3D-моделирования - Enter.kg</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans">
+    <header class="bg-gray-800 text-white p-4">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <h1 class="text-2xl font-bold">Enter.kg</h1>
+            <p class="text-sm">Интернет магазин компьютерной техники в Бишкеке</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto p-4">
+        <section class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-2">ASUS TUF Gaming F15 (FX507VI-F15)</h2>
+            <p class="text-gray-600 mb-6">Профессиональное решение для работы с БАЗИС-Мебельщик, SolidWorks и программами для 3D-рендеринга</p>
+            
+            <div class="flex flex-col md:flex-row gap-8">
+                <div class="md:w-1/2">
+                    <div class="aspect-ratio-16/9 bg-gray-200 rounded-lg mb-4 flex items-center justify-center">
+                        <div class="text-gray-500 text-center p-4">
+                            <p class="mb-2">Изображение ноутбука ASUS TUF Gaming F15</p>
+                            <p class="text-sm">Ссылка на изображение: https://enter.kg/images/stories/virtuemart/product/1_6436_3017.jpg</p>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-4">
+                        <div class="flex items-baseline">
+                            <span class="text-3xl font-bold text-gray-800">131 491</span>
+                            <span class="ml-1 text-lg font-medium text-gray-700">Сом</span>
+                        </div>
+                        <p class="text-sm text-gray-600">Гарантия: 12 месяцев</p>
+                    </div>
+                </div>
+                
+                <div class="md:w-1/2">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-4">Технические характеристики</h3>
+                    <ul class="space-y-2 text-gray-700">
+                        <li class="flex">
+                            <span class="font-medium w-32">Процессор:</span>
+                            <span>Intel Core i7-13620H (10 ядер/20 потоков, до 4.9Ghz)</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Дисплей:</span>
+                            <span>15.6" LED FULL HD IPS (1920 x 1080) 144Hz</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">ОЗУ:</span>
+                            <span>48GB DDR5-4800Mhz</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Накопитель:</span>
+                            <span>1TB SSD PCIe NVMe M.2</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Видеокарта:</span>
+                            <span>NVIDIA GeForce RTX4070 8GB GDDR6</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Беспроводная связь:</span>
+                            <span>WiFi 6, BT 5.2</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Камера:</span>
+                            <span>720P HD camera</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Звук:</span>
+                            <span>Dolby Atmos Sound</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Сеть:</span>
+                            <span>LAN, RJ45</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Порты:</span>
+                            <span>USB Type-C, Thunderbolt 4</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Клавиатура:</span>
+                            <span>Backlight Chiclet Keyboard RGB, Eng-Rus</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Батарея:</span>
+                            <span>90Wh Li-ion, Quick Charge (Быстрая зарядка)</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">Цвет:</span>
+                            <span>MECHA GRAY</span>
+                        </li>
+                        <li class="flex">
+                            <span class="font-medium w-32">ОС:</span>
+                            <span>Windows 11 Home</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="mt-6 bg-gray-50 p-4 rounded-lg">
+                <h3 class="text-lg font-semibold text-gray-800 mb-3">Обоснование для работы с БАЗИС-Мебельщик, SolidWorks и рендеринга</h3>
+                
+                <div class="mb-5">
+                    <h4 class="font-medium text-gray-800 mb-2">Требования для эффективной работы с данным ПО:</h4>
+                    <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                        <li>Мощный многоядерный процессор для вычислений и симуляций</li>
+                        <li>Профессиональная видеокарта с поддержкой CUDA/RTX для ускорения рендеринга</li>
+                        <li>Значительный объем оперативной памяти для работы со сложными проектами</li>
+                        <li>Быстрый накопитель для загрузки больших файлов проектов</li>
+                        <li>Качественный дисплей с точной цветопередачей</li>
+                        <li>Набор портов для подключения периферийных устройств</li>
+                    </ul>
+                </div>
+                
+                <div class="mb-5">
+                    <h4 class="font-medium text-gray-800 mb-2">БАЗИС-Мебельщик:</h4>
+                    <p class="text-gray-700 mb-3">Специализированная САПР для проектирования мебели требует:</p>
+                    <ul class="list-disc pl-5 space-y-1 text-gray-700">
+                        <li>Процессор Intel Core i7-13620H с 10 ядрами обеспечивает высокую скорость при выполнении расчетов и построении 3D-моделей мебельных изделий</li>
+                        <li>48GB DDR5 памяти позволяют работать с большими мебельными проектами, включающими множество деталей и сборок</li>
+                        <li>RTX 4070 с поддержкой аппаратного ускорения обеспечивает плавное отображение сложных мебельных конструкций в реальном времени</li>
+                        <li>1TB SSD хранилище позволяет хранить обширную библиотеку материалов, фурнитуры и готовых проектов</li>
+                    </ul>
+                </div>
+                
+                <div class="mb-5">
+                    <h4 class="font-medium text-gray-800 mb-2">SolidWorks:</h4>
+                    <p class="text-gray-700 mb-3">Профессиональная САПР для инженерного 3D-моделирования:</p>
+                    <ul class="list-disc pl-5 space-y-1 text-gray-700">
+                        <li>Многопоточный процессор i7-13620H оптимален для параметрического моделирования и инженерных расчетов</li>
+                        <li>NVIDIA RTX 4070 сертифицирована для работы с профессиональными САПР и поддерживает все необходимые технологии для стабильной работы SolidWorks</li>
+                        <li>Большой объем памяти 48GB критически важен при работе со сложными сборками и симуляциями</li>
+                        <li>Высокая частота обновления экрана 144Hz позволяет плавно вращать и масштабировать сложные 3D-модели</li>
+                        <li>Порт Thunderbolt 4 позволяет подключать профессиональные мониторы и устройства ввода</li>
+                    </ul>
+                </div>
+                
+                <div class="mb-3">
+                    <h4 class="font-medium text-gray-800 mb-2">Рендеринг:</h4>
+                    <p class="text-gray-700 mb-3">Создание фотореалистичных изображений и визуализаций:</p>
+                    <ul class="list-disc pl-5 space-y-1 text-gray-700">
+                        <li>NVIDIA RTX 4070 с 8GB GDDR6 памяти поддерживает аппаратное ускорение рендеринга через CUDA, OptiX и RTX, значительно сокращая время визуализации</li>
+                        <li>Поддержка технологий трассировки лучей для создания реалистичного освещения и отражений</li>
+                        <li>20 потоков процессора обеспечивают высокую производительность при использовании CPU-рендеринга</li>
+                        <li>IPS-дисплей обеспечивает точную цветопередачу для корректной оценки результатов визуализации</li>
+                        <li>Система охлаждения ноутбука спроектирована для длительных нагрузок, характерных для процесса рендеринга</li>
+                    </ul>
+                </div>
+                
+                <div class="mt-4 p-3 bg-blue-50 border-l-4 border-blue-500 rounded">
+                    <p class="text-gray-800">ASUS TUF Gaming F15 предлагает оптимальное соотношение цены и производительности для профессиональной работы с мебельным проектированием и 3D-моделированием. Сочетание мощного процессора, профессиональной видеокарты и большого объема оперативной памяти делает его идеальным решением для работы с БАЗИС-Мебельщик, SolidWorks и программами рендеринга.</p>
+                </div>
+            </div>
+        </section>
+        
+        <section class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Варианты покупки для компаний</h3>
+            
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="border border-gray-200 rounded-lg p-4 hover:shadow-md transition">
+                    <div class="bg-green-100 text-green-800 font-semibold text-center py-2 rounded mb-3">
+                        Вариант 1
+                    </div>
+                    <h4 class="font-medium text-gray-800 text-center mb-3">Постановка на баланс компании</h4>
+                    <ul class="space-y-2 text-gray-700 mb-4">
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-green-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>100% оплачивается компанией</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-green-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Оборудование числится на балансе компании как основное средство</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-green-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Налоговые преимущества для компании</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-green-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Полное обслуживание и поддержка IT-отделом</span>
+                        </li>
+                    </ul>
+                    <p class="text-center text-gray-600 text-sm mb-4">Идеально для компаний, стремящихся обновить компьютерный парк и обеспечить сотрудников качественным оборудованием</p>
+                </div>
+                
+                <div class="border border-gray-200 rounded-lg p-4 hover:shadow-md transition">
+                    <div class="bg-blue-100 text-blue-800 font-semibold text-center py-2 rounded mb-3">
+                        Вариант 2
+                    </div>
+                    <h4 class="font-medium text-gray-800 text-center mb-3">50% компания + 50% из зарплаты</h4>
+                    <ul class="space-y-2 text-gray-700 mb-4">
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>50% стоимости оплачивает компания</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>50% удерживается из зарплаты сотрудника</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>После полной выплаты техника может перейти в собственность сотрудника</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Возможность использования для личных целей</span>
+                        </li>
+                    </ul>
+                    <p class="text-center text-gray-600 text-sm mb-4">Выгодное решение для компаний и сотрудников, желающих разделить затраты на приобретение оборудования</p>
+                </div>
+                
+                <div class="border border-gray-200 rounded-lg p-4 hover:shadow-md transition">
+                    <div class="bg-purple-100 text-purple-800 font-semibold text-center py-2 rounded mb-3">
+                        Вариант 3
+                    </div>
+                    <h4 class="font-medium text-gray-800 text-center mb-3">100% из зарплаты с рассрочкой</h4>
+                    <ul class="space-y-2 text-gray-700 mb-4">
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-purple-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Полная стоимость удерживается из зарплаты</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-purple-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Удобная растяжка платежей на 6-12 месяцев</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-purple-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Без процентов и скрытых комиссий</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="h-5 w-5 text-purple-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Ноутбук сразу переходит в собственность сотрудника</span>
+                        </li>
+                    </ul>
+                    <p class="text-center text-gray-600 text-sm mb-4">Идеальное решение для сотрудников, которые хотят приобрести высокопроизводительный ноутбук через компанию с возможностью рассрочки</p>
+                </div>
+            </div>
+            
+            <div class="mt-6 bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded">
+                <h4 class="font-medium text-gray-800 mb-2">Преимущества корпоративного приобретения:</h4>
+                <ul class="list-disc pl-5 space-y-1 text-gray-700">
+                    <li>Специальные корпоративные цены и скидки</li>
+                    <li>Возможность индивидуальной конфигурации под нужды сотрудника</li>
+                    <li>Приоритетное обслуживание и расширенная гарантия</li>
+                    <li>Оптимизация налогообложения для компании</li>
+                    <li>Повышение лояльности и производительности сотрудников</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section class="bg-white rounded-lg shadow-md p-6">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Контакты и информация о магазине</h3>
+            
+            <div class="grid md:grid-cols-2 gap-6">
+                <div>
+                    <div class="mb-4">
+                        <h4 class="font-medium text-gray-800 mb-2">Адрес 1:</h4>
+                        <p class="text-gray-700">Кыргызстан, г.Бишкек, пр. Чуй 170</p>
+                        <p class="text-gray-700">Тел.: +996 (312) 611 333</p>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <h4 class="font-medium text-gray-800 mb-2">Адрес 2:</h4>
+                        <p class="text-gray-700">ул.Московская, 195</p>
+                        <p class="text-gray-700">Тел.: +996 (312) 611 300</p>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <h4 class="font-medium text-gray-800 mb-2">Электронная почта:</h4>
+                        <p class="text-gray-700">anions@mail.ru</p>
+                    </div>
+                </div>
+                
+                <div>
+                    <h4 class="font-medium text-gray-800 mb-2">Режим работы:</h4>
+                    <p class="text-gray-700">ПН-ПТ с 9-00 до 18-00 без обеда</p>
+                    <p class="text-gray-700">Сб с 10-00 до 18-00 без обеда</p>
+                    
+                    <div class="mt-6">
+                        <button class="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700 transition">
+                            Связаться с нами
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer class="bg-gray-800 text-white p-4 mt-8">
+        <div class="container mx-auto">
+            <p class="text-center text-sm">Все права защищены &copy; Enter.kg 2009-2025</p>
+        </div>
+    </footer>
+</body>
+</html>
